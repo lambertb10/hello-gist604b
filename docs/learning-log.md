@@ -1,4 +1,3 @@
-```markdown
 # Learning Log - M1A3 GitHub Repository Management
 
 **Student:** Brendan Lambert
