@@ -16,7 +16,7 @@ def main():
     print("University of Arizona coordinates: 32.2319° N, 110.9501° W")
     
     # Add your own message here!
-    print("My Own Message")
+    print("University of Arizona coordinates(MGRS): 12S WA 04701 66141 <- I prefer MGRS format!")
 
 if __name__ == "__main__":
     main()
