@@ -24,6 +24,9 @@ This repository demonstrates GitHub skills including:
 - `scripts/` - Python scripts for GIS workflows
 - `data/` - Placeholder for future spatial data
 
+## Link
+- Link back to assignment repo: https://github.com/ua-gist604b-f25/m1a3-github-repository-management-lambertb10
+
 ## 🚀 Usage
 To run the hello script:
 ```bash
